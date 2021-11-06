@@ -1,3 +1,1 @@
-# constlydotcom.github.io
-
-## Hello world
+# constly.com
